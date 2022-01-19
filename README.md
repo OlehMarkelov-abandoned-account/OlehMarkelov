@@ -5,4 +5,4 @@
 
 ### 🎨 Current projects:
 - Simple RPG game on the Unity
-- "Japanese grammar" mobile application for providing a useful and easy tool for Japanese learners.
+- "Japanese grammar" mobile application for providing a useful <br> and easy tool for Japanese learners.
