@@ -19,4 +19,4 @@
 <img src="https://raw.githubusercontent.com/Olegqqqmarkelov/olegqqqmarkelov/main/Data/cat.gif" align="right" width="20%" height="auto">
 
 ### 🎨 Current project:
-- "Akira" simple RPG game [Unity]
+- None
